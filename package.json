@@ -1,0 +1,20 @@
+{
+    "name": "bif-core-subscribe-tool-nodejs",
+    "version": "1.0.0",
+    "description": "bifcore nodejs websocket subscribe service",
+    "main": "subclient.js",
+    "scripts": {},
+    "keywords": [
+        "nodejs-websocket"
+    ],
+    "author": "caict",
+    "license": "Apache",
+    "dependencies": {
+        "websocket": "^1.0.34",
+        "google-protobuf": "^3.10.0-rc.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/caict-4iot-dev/bif-core-subscribe-tool-nodejs.git"
+    }
+}
