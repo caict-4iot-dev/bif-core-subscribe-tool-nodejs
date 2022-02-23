@@ -11,15 +11,11 @@ This is a [Node.js](https://nodejs.org/en/) module available through the
 Before installing, [download and install Node.js](https://nodejs.org/en/download/).
 Node.js 6.0.0 or higher is required.
 
-Installation is done using the
-[`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
-
-
 ## RUN
 
 ```bash
-
- node subclient.js
+$ npm install
+$ node subclient.js
 
 ```
 
